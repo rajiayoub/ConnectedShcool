@@ -7,8 +7,8 @@ import com.connected.school.persistence.model.Etablissement;
 
 public interface IEtablissementService  {
 
-	/**
-     * Creates a new person.
+	/**  gg
+     * Creates  cx  x xa new person.
      * @param created   The information of the created person.
      * @return  The created person.
      */
